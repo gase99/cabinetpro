@@ -1,0 +1,23 @@
+# Downloaded source zip from Google Drive (kept locally, not committed)
+google_drive/
+*.zip
+!release/*.zip
+
+# Web
+web/node_modules/
+web/dist/
+node_modules/
+dist/
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+*.iml
+.gradle/
+.idea/
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
