@@ -1,6 +1,7 @@
 # Downloaded source zip from Google Drive (kept locally, not committed)
 google_drive/
 *.zip
+!release/*.zip
 
 # Web
 web/node_modules/
